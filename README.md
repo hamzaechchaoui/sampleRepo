@@ -1,0 +1,2 @@
+# sampleRepo
+For learning Git
